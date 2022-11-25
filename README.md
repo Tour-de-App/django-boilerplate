@@ -44,6 +44,4 @@ V rámci GitHub akce se aplikace automaticky odevzdává, jediné co je potřeba
 V kontejneru je nakonfigurovaná sqlite3 databáze, jejíž obsah se ukládá do souboru
 db.sqlite3
 
-Přístupové údaje k databázi jsou: user=sa password=password
-
-Ke databázové konzoli se můžete připojit na http://127.0.0.1:8080/h2-console
+Nastavení databáze lze upravit v souboru settings.py
